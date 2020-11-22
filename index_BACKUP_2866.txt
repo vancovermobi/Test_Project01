@@ -1,7 +1,0 @@
-fix index branch iss53
-
-<<<<<<< HEAD
-master conflict content
-=======
-iss53 conflict re content 
->>>>>>> iss53
